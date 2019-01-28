@@ -15,9 +15,9 @@ Includes use of the new collection framework in Java 8.
 
 https://docs.oracle.com/javase/8/docs/technotes/guides/collections/changes8.html
 
-Test suite written with JUnit 4.
+Test suite written with JUnit 5.
 
-http://junit.org/junit4/
+http://junit.org/junit5/
 
 Build configuration uses the sbt build tool.
 
