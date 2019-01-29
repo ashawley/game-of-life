@@ -23,3 +23,8 @@ Download the dependencies with bundler
 Run the test suite with the rspec command:
 
     $ rspec
+
+Run the test suite with guard:
+
+    $ guard
+
