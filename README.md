@@ -10,7 +10,7 @@ http://wiki.c2.com/?XpSimplicityRules
 
 At the moment, it only tests a 1-by-1 grid.
 
-Written in Ruby 2.3, with RSpec 2.
+Written in Ruby 2.4, with RSpec 2.
 
 Clone the repository with:
 
